@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+.gallery img{
+    width: 18%;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: blueviolet;
+    padding-top: 12px;
+}
+#menu a{
+    color: blue;
+    font-family: helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800px;
+    text-align: right;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color: darkblue;
+}
